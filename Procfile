@@ -1,1 +1,1 @@
-worker: python3 amigo_bot.py
+worker: python amigo_bot.py
